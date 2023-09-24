@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">F Browser</string>
+    <string name="input_hint">Search or type web address</string>
+
+</resources>
